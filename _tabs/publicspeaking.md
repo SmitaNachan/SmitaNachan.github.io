@@ -12,7 +12,6 @@ order: 4
 I’ll be speaking at the following events.
 
 **Event**|**Topic**|**When**|**Where**
-Microsoft 365 Saturday, Bangalore|[Introduction to Microsoft Dataverse for Teams](https://www.spsevents.org/event/bangaloresps2020/sessions/)|12 December, 2020|Online
 Modern Workplace Conference Paris 2021|[Project Oakdale, new data platform for Microsoft Teams](https://mwcp21.sessionize.com/session/224864)|19 January, 2021|Online
 Global Security and Compliance Community Conference|[Explore RBAC and PIM in M365](http://microsoft365compliance.de/compliance-and-security-community-conference-2021)|08 February, 2021|Online
 Virtual Scottish Summit 2021|[Developing SharePoint Framework Solutions for the Enterprise](https://scottishsummit.com/)|27 February, 2021|Online
@@ -21,6 +20,8 @@ Virtual Scottish Summit 2021|[Developing SharePoint Framework Solutions for the 
 ## Past events
 
 **Event**|**Topic**|**When**|**Where**
+M365 Saturday Coimbatore|[Demystifying the Microsoft Lists Magic](https://www.spsevents.org/event/m365coimbatore2020/)|19 December, 2020|Online
+Microsoft 365 Saturday, Bangalore|[Introduction to Microsoft Dataverse for Teams](https://www.spsevents.org/event/bangaloresps2020/sessions/)|12 December, 2020|Online
 M365 Saturday Ahmedabad 2020|[Dataverse for Teams - new data platform for Microsoft Teams](https://www.spsevents.org/event/ahmedabad2020/sessions/)|05 December, 2020|Online
 aMS Germany|[SharePoint Content classification with AI capabilities](https://ams-germany-2020.sessionize.com/session/224858)|01 December, 2020|Online
 Global Microsoft 365 Developer Bootcamp 2020, Hamburg, DE|[Collaborate on Microsoft Teams with Power Platform](https://www.meetup.com/de-DE/Office-365-User-Group-Hamburg/events/271966324/)|28 November, 2020|Online
@@ -42,6 +43,6 @@ SPS Ahmedabad 2019|[Explore Library components in SPFx](https://www.spsevents.or
 ## Event Organizer
 
 **Event**|**When**|**Where**
-[Global Power Platform Bootcamp 2021, Pune](https://www.powerplatformbootcamp.com/2021/location-detail/?id=b93adc3c-8e12-eb11-8441-0003ffb4cdf8&city=Pune)|19 & 20 February, 2021|Online
+[Global Power Platform Bootcamp 2021, India](https://www.powerplatformbootcamp.com/2021/location-detail/?id=b93adc3c-8e12-eb11-8441-0003ffb4cdf8&city=Pune)|19 & 20 February, 2021|Online
 [Global Microsoft 365 Developer Bootcamp 2020, Pune](https://www.meetup.com/Pune-Tech-Community/events/272057386/)|24 & 25 October, 2020|Online
 [Global AI On Tour - 2020, Pune](https://www.meetup.com/Microsoft-365-and-Power-Platform-User-group-India/events/270546415/)|20 June, 2020|Online
