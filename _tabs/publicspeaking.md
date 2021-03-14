@@ -2,7 +2,7 @@
 permalink: /publicspeaking/
 title: "Public Speaking"
 
-last_modified_at: 2019-08-27T15:46:43-04:00
+last_modified_at: 2021-03-14T15:46:43-04:00
 toc: true
 order: 4
 ---
@@ -12,14 +12,19 @@ order: 4
 I’ll be speaking at the following events.
 
 **Event**|**Topic**|**When**|**Where**
-Modern Workplace Conference Paris 2021|[Project Oakdale, new data platform for Microsoft Teams](https://mwcp21.sessionize.com/session/224864)|19 January, 2021|Online
-Global Security and Compliance Community Conference|[Explore RBAC and PIM in M365](http://microsoft365compliance.de/compliance-and-security-community-conference-2021)|08 February, 2021|Online
-Virtual Scottish Summit 2021|[Developing SharePoint Framework Solutions for the Enterprise](https://scottishsummit.com/)|27 February, 2021|Online
-
+Teams Day Online 3|[Bring your SharePoint apps to MS Teams](https://modernworkplacesummits.com/schedule-1)|07 - 08 April, 2021|Online
+3rd cloud8 virtual Summit 2021|[Bring your SharePoint apps to MS Teams](https://www.cloudeight.ch/)|04 June, 2021|Online
 
 ## Past events
 
 **Event**|**Topic**|**When**|**Where**
+Power Platform Virual Conference|[Power Platform empowers Microsoft Teams](https://www.2020twenty.net/power-platform-virtual-conference/)|11 March, 2021|Online
+Microsoft Reactor Bengaluru|[Navigating your community journey en route to a Microsoft MVP award](https://www.meetup.com/microsoft-reactor-bengaluru/events/276703903/)|10 March, 2021|Online
+A day with Microsoft Teams Development|[Implementing MS Teams Bot with Yo Teams](https://www.eventbrite.com/e/a-day-with-microsoft-teams-development-tickets-141051048483)|06 March, 2021|Online
+Virtual Scottish Summit 2021|[Developing SharePoint Framework Solutions for the Enterprise](https://scottishsummit.com/scottish-summit-2021-sessions#sz-session-222970)|27 February, 2021|Online
+Global Security and Compliance Community Conference|[Explore RBAC and PIM in M365](https://microsoft365compliance.de/agenda)|08 February, 2021|Online
+Modern Workplace Conference Paris 2021|[Project Oakdale, new data platform for Microsoft Teams](https://mwcp21.sessionize.com/session/224864)|19 January, 2021|Online
+philly.NET Code Camp 2021|[Change Notifications and Track Changes with Microsoft Graph](https://philly-net-code-camp-2021.sessionize.com/session/235468)|16 January, 2021|Online
 M365 Saturday Coimbatore|[Demystifying the Microsoft Lists Magic](https://www.spsevents.org/event/m365coimbatore2020/)|19 December, 2020|Online
 Microsoft 365 Saturday, Bangalore|[Introduction to Microsoft Dataverse for Teams](https://www.spsevents.org/event/bangaloresps2020/sessions/)|12 December, 2020|Online
 M365 Saturday Ahmedabad 2020|[Dataverse for Teams - new data platform for Microsoft Teams](https://www.spsevents.org/event/ahmedabad2020/sessions/)|05 December, 2020|Online
