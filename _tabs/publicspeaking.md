@@ -12,7 +12,6 @@ order: 4
 I’ll be speaking at the following events.
 
 **Event**|**Topic**|**When**|**Where**
-ASEANS MS Women In Tech - Apr 2021 meetup|[Implementing Bots for MS Teams](https://www.meetup.com/aseans-ms-women-in-tech/events/277023860)|08 April, 2021|Online
 Microsoft 365 Virtual Marathon|[Bring your SharePoint apps to MS Teams](https://www.m365virtualmarathon.com/sessions.html)|27 April, 2021 at 1:00 PM IST|Online
 Microsoft 365 Virtual Marathon|[Monitor Office 365 Logs from Azure Sentinel](https://www.m365virtualmarathon.com/sessions.html)|28 April, 2021 at 8:00 PM IST|Online
 Teams Nation|[Extending MS Teams with SharePoint Framework](https://teamsnation.rocks/hub)|12 May, 2021|Online
@@ -23,6 +22,8 @@ Cloud Lunch and Learn Marathon 2021|[Explore RBAC and PIM in M365](https://www.c
 ## Past events
 
 **Event**|**Topic**|**When**|**Where**
+Women Tech Event 2021, Talklify Community|[SharePoint Content classification with AI capabilities](https://www.meetup.com/Talklify-Community/events/277214162/)|10 April, 2021|Online
+ASEANS MS Women In Tech - Apr 2021 meetup|[Implementing Bots for MS Teams](https://www.meetup.com/aseans-ms-women-in-tech/events/277023860)|08 April, 2021|Online
 Teams Day Online 3|[Bring your SharePoint apps to MS Teams](https://modernworkplacesummits.com/schedule-1)|07 - 08 April, 2021|Online
 Power Platform Virual Conference|[Power Platform empowers Microsoft Teams](https://www.2020twenty.net/power-platform-virtual-conference/)|11 March, 2021|Online
 Microsoft Reactor Bengaluru|[Navigating your community journey en route to a Microsoft MVP award](https://www.meetup.com/microsoft-reactor-bengaluru/events/276703903/)|10 March, 2021|Online
