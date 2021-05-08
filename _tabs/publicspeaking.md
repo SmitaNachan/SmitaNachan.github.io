@@ -12,17 +12,19 @@ order: 4
 I’ll be speaking at the following events.
 
 **Event**|**Topic**|**When**|**Where**
-Microsoft Global Hindi Bootcamp|[Bring governance and security to your M365 with RBAC and PIM](https://sessionize.com/MicrosoftGlobalHindiBootcamp/)|08 May, 2021 at 10:15 AM IST|Online
 Collabdays Nordics|[Protect Office 365 with Azure Sentinel](https://www.collabdays.org/2021-nordics/)|10 May, 2021|Online
 Teams Nation|[Extending MS Teams with SharePoint Framework](https://teamsnation.rocks/hub)|12 May, 2021|Online
 Cloud Lunch and Learn Marathon 2021|[Collaborate with Microsoft Teams and SharePoint](https://www.cloudlunchlearn.com/marathon)|13 May, 2021 at 11:00 AM (UTC)|Online
 Cloud Lunch and Learn Marathon 2021|[Explore RBAC and PIM in M365](https://www.cloudlunchlearn.com/marathon)|13 May, 2021|Online
+M365 Philly Virtual 2021|[Build MS Teams Applications with SharePoint](https://www.spsevents.org/event/sharepoint-saturday-philly/sessions/)|14 May, 2021 at 02:00 PM IST|Online
+M365 Chicago|[Extend your SharePoint solutions to MS Teams](https://m365chicago.com/)|04 June, 2021|Online
 3rd cloud8 virtual Summit 2021|[Bring your SharePoint apps to MS Teams](https://www.cloudeight.ch/)|04 June, 2021|Online
 Azure Summit 2021|[Monitor Office 365 Logs from Azure Sentinel](https://www.2020twenty.net/azure-summit-2021/)|13-18 September, 2021|Online
 
 ## Past events
 
 **Event**|**Topic**|**When**|**Where**
+Microsoft Global Hindi Bootcamp|[Bring governance and security to your M365 with RBAC and PIM](https://www.eventbrite.sg/e/free-microsoft-global-hindi-bootcamp-tickets-152673541673)|08 May, 2021|Online
 Microsoft 365 Virtual Marathon|[Monitor Office 365 Logs from Azure Sentinel](https://www.m365virtualmarathon.com/sessions.html)|28 April, 2021|Online
 Microsoft 365 Virtual Marathon|[Bring your SharePoint apps to MS Teams](https://www.m365virtualmarathon.com/sessions.html)|27 April, 2021|Online
 Women Tech Event 2021, Talklify Community|[SharePoint Content classification with AI capabilities](https://www.meetup.com/Talklify-Community/events/277214162/)|10 April, 2021|Online
