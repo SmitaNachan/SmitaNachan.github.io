@@ -12,14 +12,18 @@ order: 4
 I’ll be speaking at the following events.
 
 **Event**|**Topic**|**When**|**Where**
-Microsoft Azure Associate Certifications - Preparation Series by Dear Azure - Azure INDIA|[PL-100: Microsoft Power Platform App Maker](https://www.eventbrite.com/e/microsoft-azure-associate-certifications-preparation-series-by-dear-azure-tickets-162201578287)|21 August, 2021 at 10 AM IST|Online
-India Cloud Security Summit, 2021|[Information Barriers in MS Teams](https://www.indiacloudsecuritysummit.com/#agenda)|28 August, 2021|Online
-Azure Back to School 2021|[Monitor Office 365 Environment with Azure Sentinel](https://azurebacktoschool.github.io/)|01 September, 2021|Online
-Azure Summit 2021|[Monitor Office 365 Logs from Azure Sentinel](https://www.2020twenty.net/azure-summit-2021/)|14 September, 2021|Online
+Cloud Summit 2021|[Monitor Office 365 Logs from Azure Sentinel](https://azuresummit.live/)|14 September, 2021|Online
+Azure Back to School 2021|[Monitor Office 365 Environment with Azure Sentinel](https://azurebacktoschool.github.io/)|19 September, 2021|Online
+Microsoft 365 UK (M365UK) User Group|[Information Barriers in Office 365](https://www.meetup.com/m365uk/)|13 October 2021 at 8:30 PM IST|Online
+aMS Southeast Asia 2021|[Universal Actions for Adaptive Cards on Microsoft Teams](https://amssea.asia/)|15 October 2021|Online
+NYC Teams Tuesday - November|[Modern SharePoint Development](https://www.meetup.com/NYC-Teams-Tuesday/events/280337056/)|16 November, 2021 at 10:15 PM IST|Online
 
 ## Past events
 
 **#**|**Event**|**Topic**|**When**|**Where**
+42|India Cloud Security Summit, 2021|[Information Barriers in MS Teams](https://www.indiacloudsecuritysummit.com/#agenda)|28 August, 2021|Online
+41|Power Platform Bootcamp India|[Explore Microsoft Power Platform Center of Excellence](https://events.powercommunity.com/power-platform-bootcamp-india/)|28 August, 2021|Online
+40|Microsoft Azure Associate Certifications - Preparation Series by Dear Azure - Azure INDIA|[PL-100: Microsoft Power Platform App Maker](https://www.eventbrite.com/e/microsoft-azure-associate-certifications-preparation-series-by-dear-azure-tickets-162201578287)|21 August, 2021|Online
 39|Global Microsoft Hindi Bootcamp|[Monitor Office 365 Environment with Azure Sentinel](https://www.globalmicrosoftevents.com/schedule-1)|07 August, 2021|Online
 38|3rd cloud8 virtual Summit 2021|[Bring your SharePoint apps to MS Teams](https://www.cloudeight.ch/)|04 June, 2021|Online
 37|M365 Chicago|[Extend your SharePoint solutions to MS Teams](https://m365chicago.com/)|04 June, 2021|Online
